@@ -1,0 +1,48 @@
+{
+  "recruit": {
+    "cost": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/6/6d/Icon_treasury.png/15px-Icon_treasury.png?version=addba6329124c555a31e7dee7522e4de",
+    "turns": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/5/5c/Icon_hourglass.png/15px-Icon_hourglass.png?version=053b0dd606f512dc87379e78e5a24a5c",
+    "upkeep": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/6/68/Icon_income.png/15px-Icon_income.png?version=ae1a7808c434b73093bb645a20b573f3",
+    "buildings": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/6/60/Empire_armourer.png?version=d8217e75732ade22a2c5c9c65354b19c"
+  },
+  "general": {
+    "health": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/e/eb/Icon_stat_health.png/15px-Icon_stat_health.png?version=27fda9fb597f51389d08afafeb140f0d",
+    "leadership": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/5/5d/Icon_stat_morale.png/15px-Icon_stat_morale.png?version=97a85901b092442de512bd2ffe5d88da",
+    "speed": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/9/98/Icon_stat_speed.png/15px-Icon_stat_speed.png?version=3669b9d9db04f8027953aa3eeabf3ac8",
+    "meleeAttack": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/1/11/Icon_stat_attack.png/15px-Icon_stat_attack.png?version=f95d3fa47001b0c157f82e11ca41b176",
+    "meleeDefence": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/6/6f/Icon_stat_defence.png/15px-Icon_stat_defence.png?version=185eb8d563f0adcb33b1ca01516e2e3d",
+    "chargeBonus": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/1/18/Icon_stat_charge_bonus.png/15px-Icon_stat_charge_bonus.png?version=1128176d7bda85e8a4ce91aa9c589987",
+    "missileResistances": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/1/16/Resistance_missile.png/15px-Resistance_missile.png?version=603bbc30829c21bbabd54e5cd1b0a592",
+    "magicResistances": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/4/4b/Resistance_magic.png/15px-Resistance_magic.png?version=4b465790f08ad7ab944fdc3d37072f05",
+    "physicalResistances": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/d/dd/Resistance_physical.png/15px-Resistance_physical.png?version=740dc7751c2c0efbbe9c64ab0673fee9"
+  },
+  "melee": {
+    "weaponDamage": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/a/ae/Icon_stat_damage.png/15px-Icon_stat_damage.png?version=6b46ad9590cd728b6aa65b3e9cf6a72d",
+    "AP": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/9/95/Modifier_icon_armour_piercing.png/15px-Modifier_icon_armour_piercing.png?version=30c3f84159ad359806367688c7b7ed26",
+    "range": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/1/1a/Icon_stat_range.png/15px-Icon_stat_range.png?version=507447259aa4ad50e4dc4a3a63ad2b72",
+    "meleeInterval": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/9/98/Icon_stat_speed.png/15px-Icon_stat_speed.png?version=3669b9d9db04f8027953aa3eeabf3ac8",
+    "magicalAttacks": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/8/88/Modifier_icon_magical.png/15px-Modifier_icon_magical.png?version=13d0341555ba2659c61c9bee365be1e0",
+    "flamingAttacks": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/3/3a/Modifier_icon_flaming.png/15px-Modifier_icon_flaming.png?version=ffaa1bcea1662d72b3207f6ac5b7f625",
+    "poisonAttacks": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/e/e4/Modifier_icon_poison.png/15px-Modifier_icon_poison.png?version=3171f75a6d01befc9636965109e19510",
+    "bonusInfantry": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/a/a8/Modifier_icon_bonus_vs_infantry.png/15px-Modifier_icon_bonus_vs_infantry.png?version=088e85d09370291602ca7ff18180b8d6",
+    "bonusLarge": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/9/9a/Modifier_icon_bonus_vs_large.png/15px-Modifier_icon_bonus_vs_large.png?version=3ce35eab4b9987db06373ef67ee29589"
+  },
+  "ranged": {
+    "missileDamage": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/e/e7/Icon_stat_ranged_damage.png/15px-Icon_stat_ranged_damage.png?version=180a6652f54f7644e5b2f6f8bd42e245",
+    "AP": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/9/95/Modifier_icon_armour_piercing.png/15px-Modifier_icon_armour_piercing.png?version=30c3f84159ad359806367688c7b7ed26",
+    "explosiveDamage": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/4/44/Weapon_damage.png/15px-Weapon_damage.png?version=ed4e67af022eaf7dfafee15a1af2cf6f",
+    "explosiveAP": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/9/95/Modifier_icon_armour_piercing.png/15px-Modifier_icon_armour_piercing.png?version=30c3f84159ad359806367688c7b7ed26",
+    "numberOfProjectiles": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/e/e7/Icon_stat_ranged_damage.png/15px-Icon_stat_ranged_damage.png?version=180a6652f54f7644e5b2f6f8bd42e245",
+    "shots": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/e/e7/Icon_stat_ranged_damage.png/15px-Icon_stat_ranged_damage.png?version=180a6652f54f7644e5b2f6f8bd42e245",
+    "reloadTime": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/6/6f/Icon_stat_ammo.png/15px-Icon_stat_ammo.png?version=1a8e16d18f7e6063146026804fe17922",
+    "ammo": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/6/6f/Icon_stat_ammo.png/15px-Icon_stat_ammo.png?version=1a8e16d18f7e6063146026804fe17922",
+    "range": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/1/1a/Icon_stat_range.png/15px-Icon_stat_range.png?version=507447259aa4ad50e4dc4a3a63ad2b72",
+    "magicalAttacks": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/8/88/Modifier_icon_magical.png/15px-Modifier_icon_magical.png?version=13d0341555ba2659c61c9bee365be1e0",
+    "flamingAttacks": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/3/3a/Modifier_icon_flaming.png/15px-Modifier_icon_flaming.png?version=ffaa1bcea1662d72b3207f6ac5b7f625",
+    "poisonAttacks": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/e/e4/Modifier_icon_poison.png/15px-Modifier_icon_poison.png?version=3171f75a6d01befc9636965109e19510"
+  },
+  "defense": {
+    "shield": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/7/75/Modifier_icon_shield.png/15px-Modifier_icon_shield.png?version=5cbf774d17a567c5f89835fedcfd23e8",
+    "armor": "https://gamepedia.cursecdn.com/totalwarhammer_gamepedia/thumb/b/bf/Icon_stat_armour.png/15px-Icon_stat_armour.png?version=6e7a599ee842f83991bbbe98bffc8e16"
+  }
+}
